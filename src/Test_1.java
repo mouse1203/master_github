@@ -5,6 +5,7 @@ public class Test_1 {
         int a =5;
 
         System.out.print(a);
+        gfhggjh
     }
 
 
